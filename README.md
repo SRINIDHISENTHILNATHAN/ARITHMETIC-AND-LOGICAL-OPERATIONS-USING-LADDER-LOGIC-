@@ -80,6 +80,8 @@ Logical Operations: Confirm that the output behaves as expected based on the log
 <img width="1374" height="595" alt="image" src="https://github.com/user-attachments/assets/a52ba9ac-5e72-4496-999d-61dcd5d2adad" />
 <img width="1191" height="188" alt="image" src="https://github.com/user-attachments/assets/13d9a999-e545-4417-9eaf-916565d5eec8" />
 
+<img width="1285" height="387" alt="image" src="https://github.com/user-attachments/assets/4559751c-9f64-40fc-923b-d2339f964c21" />
+
 ###  ADDITION
 
 <img width="1498" height="382" alt="image" src="https://github.com/user-attachments/assets/f6af3147-8653-4b2a-8f0a-3c949462213a" />
@@ -87,20 +89,55 @@ Logical Operations: Confirm that the output behaves as expected based on the log
 <img width="954" height="239" alt="image" src="https://github.com/user-attachments/assets/b1d366de-8ea9-4585-9c52-551bdb6617f7" />
 
 ###  SUBTRACTION
+
+<img width="1288" height="384" alt="image" src="https://github.com/user-attachments/assets/25595b74-0b32-4ce5-950b-43d92e376597" />
+
+<img width="796" height="236" alt="image" src="https://github.com/user-attachments/assets/bc4fcd95-056b-4468-bca3-f5142b96eb81" />
+
 ### MULTIPLICATION
+<img width="1283" height="380" alt="image" src="https://github.com/user-attachments/assets/098f42c1-5bf4-416c-92a5-88919f9304cd" />
+
+<img width="909" height="246" alt="image" src="https://github.com/user-attachments/assets/4203f1f0-22e0-4210-94df-775cf7c89e76" />
+
 ### DIVISION
+<img width="1292" height="381" alt="image" src="https://github.com/user-attachments/assets/71cabda0-8f8b-4c91-a2c9-54c9cffa51a5" />
+
+<img width="1027" height="245" alt="image" src="https://github.com/user-attachments/assets/d81ddfb7-f11c-43bb-8860-53ee913f6f99" />
+
 ### OR GATE
+
+<img width="1287" height="386" alt="image" src="https://github.com/user-attachments/assets/8933f96b-f83e-40ea-b19b-162d1f73d467" />
+
+<img width="796" height="240" alt="image" src="https://github.com/user-attachments/assets/48af4e85-aed9-48a8-a8c2-3c47c510380c" />
+
+
 ### WAND GATE
+<img width="1290" height="393" alt="image" src="https://github.com/user-attachments/assets/f48573bd-4fcb-49cb-89c4-df428ee11870" />
+
+<img width="839" height="250" alt="image" src="https://github.com/user-attachments/assets/40682bcc-c7db-48c2-8918-6c0d1f93130c" />
+
 ### WXOR GATE
-### NEG
-### INCCREASE
+<img width="1286" height="385" alt="image" src="https://github.com/user-attachments/assets/50b70f1a-68fa-4a5c-8d65-6e25b2539e3b" />
+
+<img width="842" height="250" alt="image" src="https://github.com/user-attachments/assets/463e87ef-59d0-44a3-ae12-4930bd0698a5" />
+
+### NEGATION
+<img width="1287" height="382" alt="image" src="https://github.com/user-attachments/assets/73e62010-8017-449e-a706-103f2413bb7f" />
+
+<img width="698" height="187" alt="image" src="https://github.com/user-attachments/assets/14d7a770-74fd-4754-825f-a3d9ec37ff04" />
+
+### INCREASE
+<img width="1286" height="388" alt="image" src="https://github.com/user-attachments/assets/f4b7dd59-55d4-4132-bed0-7c5ae0d2b704" />
+
+
+<img width="696" height="190" alt="image" src="https://github.com/user-attachments/assets/96a533d7-fa9c-4c50-9cff-54edb7bd8e1a" />
+
+
 ### DECREASE
 
-<img width="1496" height="377" alt="image" src="https://github.com/user-attachments/assets/72c0320d-4497-452a-a3b6-b83d692036a0" />
+<img width="1292" height="391" alt="image" src="https://github.com/user-attachments/assets/ec5b17ff-7073-4e21-8f30-ede33a7a3a60" />
 
-###  XOR GATE
-
-<img width="1500" height="354" alt="image" src="https://github.com/user-attachments/assets/abc0488d-6019-4a38-b975-4efe4905fa70" />
+<img width="669" height="205" alt="image" src="https://github.com/user-attachments/assets/96261c99-d7f8-490a-b697-37dec02611aa" />
 
 
 ## Results:
