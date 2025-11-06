@@ -86,7 +86,15 @@ Logical Operations: Confirm that the output behaves as expected based on the log
 
 <img width="954" height="239" alt="image" src="https://github.com/user-attachments/assets/b1d366de-8ea9-4585-9c52-551bdb6617f7" />
 
+###  SUBTRACTION
 ### MULTIPLICATION
+### DIVISION
+### OR GATE
+### WAND GATE
+### WXOR GATE
+### NEG
+### INCCREASE
+### DECREASE
 
 <img width="1496" height="377" alt="image" src="https://github.com/user-attachments/assets/72c0320d-4497-452a-a3b6-b83d692036a0" />
 
